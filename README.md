@@ -5,6 +5,7 @@ Ever curious about github and the social graph of developers? Well... I am and i
 - jashmenn - 1/21
 - Orifjon - 10/8
 - narkoz - 5/9
+- carimura - 7/21
 
 Instructions
 ============
