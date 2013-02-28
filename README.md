@@ -6,6 +6,7 @@ Ever curious about github and the social graph of developers? Well... I am and i
 - Orifjon - 10/8
 - narkoz - 5/9
 - carimura - 7/21
+- selenamarie - 2/28
 
 Instructions
 ============
